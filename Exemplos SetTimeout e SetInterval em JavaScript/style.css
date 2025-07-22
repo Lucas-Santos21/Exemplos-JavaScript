@@ -1,0 +1,21 @@
+body{
+        text-align: center;
+
+       } 
+
+       button{
+        padding: 50px;
+        margin: 15px 20px;
+        color: white;
+
+       }
+
+       .start{
+        background-color: green;
+
+       }
+
+       .stop{
+        background-color: tomato;
+
+       }
